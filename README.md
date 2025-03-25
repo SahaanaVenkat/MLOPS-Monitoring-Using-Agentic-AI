@@ -32,3 +32,4 @@ This repository implements an MLOps workflow for Diabetes Prediction using XGBoo
     Azure OpenAI GPT 🧠
     
     NetworkX & Matplotlib 📈
+Dataset link used for this code : https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data
